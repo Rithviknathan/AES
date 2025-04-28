@@ -35,7 +35,8 @@ int main() {
 ```
 
 # OUTPUT:
-![Screenshot 2025-04-28 085354](https://github.com/user-attachments/assets/abb569f0-de6d-410f-9fe1-b30fc6276aba)
+![Screenshot 2025-04-28 085354](https://github.com/user-attachments/assets/1bccb3d8-f0ba-48e6-9f82-f6abeb79cdcc)
+
 
 
 # RESULT:
